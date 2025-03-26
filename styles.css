@@ -1,0 +1,25 @@
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: bold;
+    color: red;
+}
+
+#header-nav:hover, #header-nav:focus{
+    text-decoration: none;
+}
+
+#p1, #p2, #p3 {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: antiquewhite;
+    height: auto;
+    border: 2px solid black;
+    
+}
